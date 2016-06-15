@@ -1,0 +1,2 @@
+mutagen==1.31
+Pillow==3.2.0
